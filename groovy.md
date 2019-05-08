@@ -1,5 +1,5 @@
 - Artigos:
-  * [Introdução ao Groovy](https://www.devmedia.com.br/linguagem-de-programacao-groovy-introducao/34099/ target="_blank")
+  * [Introdução ao Groovy](https://www.devmedia.com.br/linguagem-de-programacao-groovy-introducao/34099/ "Introdução ao Groovy" target="_blank")
   
   [Link](https://example.org/ "title" target="_blank")
 
