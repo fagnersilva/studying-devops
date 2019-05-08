@@ -1,6 +1,7 @@
 # Lista de Estudo:
 
 ### Linguagem de programação:
+- [Shell Script](shellscript.md)
 - [Groovy](groovy.md)
 - [Ruby](ruby.md)
 - [Python](python.md)
